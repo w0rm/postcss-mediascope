@@ -36,7 +36,7 @@ Running the following css code through `postcssMediascope` :
 
 ```css
 @mediascope {
-    .$media-test {
+    .$(media)-test {
         color: $color;
     }
 }
@@ -48,14 +48,14 @@ produces intermediate result:
 @media only screen and (max-width: 500px) {
     $color: red;
     $media: phone;
-    .$media-test {
+    .$(media)-test {
         color: $color;
     }
 }
 @media only screen and (min-width: 501px) and (max-width: 900px) {
     $color: blue;
     $media: tablet;
-    .$media-test {
+    .$(media)-test {
         color: $color;
     }
 }
