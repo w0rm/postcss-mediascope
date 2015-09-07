@@ -1,0 +1,37 @@
+{
+  "name": "postcss-mediascope",
+  "version": "0.0.1",
+  "description": "Declare variables for each mediaquery",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": {
+    "name": "Andrey Kuzmin",
+    "email": "unsoundscapes@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/w0rm/postcss-mediascope"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w0rm/postcss-mediascope/issues"
+  },
+  "homepage": "https://github.com/w0rm/postcss-mediascope",
+  "dependencies": {
+    "postcss": "^5.0.4",
+    "postcss-selector-parser": "^1.2.0"
+  },
+  "keywords": [
+      "postcss",
+      "css",
+      "postcss-plugin",
+      "variables",
+      "mediaqueries",
+      "responsive"
+  ]
+}
