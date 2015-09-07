@@ -1,6 +1,6 @@
 {
   "name": "postcss-mediascope",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Declare variables for each mediaquery",
   "main": "index.js",
   "files": [
@@ -23,8 +23,7 @@
   },
   "homepage": "https://github.com/w0rm/postcss-mediascope",
   "dependencies": {
-    "postcss": "^5.0.4",
-    "postcss-selector-parser": "^1.2.0"
+    "postcss": "^5.0.4"
   },
   "keywords": [
       "postcss",

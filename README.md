@@ -35,7 +35,7 @@ postcss([
 Running the following css code through `postcssMediascope` :
 
 ```css
-@mediaprefix {
+@mediascope {
     .$media-test {
         color: $color;
     }
