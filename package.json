@@ -23,14 +23,15 @@
   },
   "homepage": "https://github.com/w0rm/postcss-mediascope",
   "dependencies": {
-    "postcss": "^5.0.4"
+    "postcss": "^5.0.4",
+    "postcss-selector-parser": "^1.2.0"
   },
   "keywords": [
-      "postcss",
-      "css",
-      "postcss-plugin",
-      "variables",
-      "mediaqueries",
-      "responsive"
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "variables",
+    "mediaqueries",
+    "responsive"
   ]
 }
