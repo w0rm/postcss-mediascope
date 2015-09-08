@@ -1,6 +1,6 @@
 {
   "name": "postcss-mediascope",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Declare variables for each mediaquery",
   "main": "index.js",
   "files": [

@@ -1,5 +1,4 @@
 var postcss = require('postcss');
-var selectorParser = require('postcss-selector-parser');
 
 module.exports = postcss.plugin('postcss-mediascope', function (prefixes) {
     return function (css) {
