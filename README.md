@@ -1,4 +1,4 @@
-# postcss-mediascope
+# postcss-mediascope [![Build Status](https://api.travis-ci.org/w0rm/postcss-mediascope.svg)](https://travis-ci.org/w0rm/postcss-mediascope)
 
 PostCSS plugin to declare [postcss-advanced-variables](https://github.com/jonathantneal/postcss-advanced-variables) for each media query.
 
